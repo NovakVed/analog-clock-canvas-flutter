@@ -1,6 +1,8 @@
-# apple_analog_clock
+# Apple Analog Clock
 
-A new Flutter project.
+Creating an analog watch face using Flutter and canvas API
+
+https://user-images.githubusercontent.com/9297079/232869264-4a42a732-305d-4b73-b117-2b9b861bc106.mov
 
 ## Getting Started
 
